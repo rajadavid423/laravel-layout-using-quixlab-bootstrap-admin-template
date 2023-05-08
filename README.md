@@ -1,7 +1,7 @@
 # laravel-layout-using-quixlab-bootstrap-admin-template
 Quixlab - Bootstrap Admin Dashboard Template Converted to Laravel project (layout setup)
 
-Quixlab - Template -> <a href="https://themeforest.net/user/quixlab">Click Here To View</a>
+Quixlab - Template -> <a href="[Click Here To View](https://demo.themefisher.com/quixlab/index.html)" target="_blank"></a>
 
 
 <img src="https://imgtr.ee/images/2023/05/08/loJuq.png" alt="loJuq.png" border="0" />
