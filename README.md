@@ -4,7 +4,7 @@ Quixlab - Bootstrap Admin Dashboard Template Converted to Laravel project (layou
 Quixlab - Template -> <a href="https://demo.themefisher.com/quixlab/index.html" target="_blank">Click Here To View</a>
 
 
-<img src="https://imgtr.ee/images/2023/05/08/loJuq.png" alt="loJuq.png" border="0" />
+<img src="https://drive.google.com/uc?export=view&id=1vqxCOCfVD1544Lguo2OpIqYym103QJR8">
 
 <b>How to convert HTML template to Laravel project in 5 simple steps</b>
 1. Copy all . html files to Your Laravel Project Folder > Resources > Views.
